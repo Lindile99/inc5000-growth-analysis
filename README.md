@@ -5,20 +5,20 @@ Built a **decision tree classification model** to predict passenger survival usi
 ## ⚙️ Tools & Libraries used
 
 - Python (Pandas, NumPy, Scikit-learn)
-- 
+  
 - Jupyter Notebook
 
 ## 📊 Key Steps
 
 - Data cleaning & preprocessing
-- 
+  
 - Built & tuned decision tree classifier
-- 
+  
 - Evaluated with accuracy and confusion matrix
 
 ## 📈 Results
 - Achieved 77.5% accuracy
-- 
+  
 - Showed which features most influenced survival.
 
 ## 📂Files
